@@ -17,13 +17,15 @@
  */
 package com.waz.zclient;
 
-import com.facebook.stetho.Stetho;
+//import com.facebook.stetho.Stetho;
 
 public class StethoApplication extends ZApplication {
 
+    /*
     @Override
     public void onCreate() {
         super.onCreate();
         Stetho.initializeWithDefaults(this);
     }
+    */
 }
